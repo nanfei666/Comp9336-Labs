@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LAB2</string>
+    <string name="scan_for_wi_fi">Scan For Wi-Fi</string>
+    <string name="sign_in">sign in</string>
+    <string name="connect">connect</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+</resources>
